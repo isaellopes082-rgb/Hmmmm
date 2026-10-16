@@ -8,7 +8,7 @@ source.include_exts = py,png,jpg,kv,atlas
 version = 1.0
 
 # Dependências corretas do Kivy + KivyMD para Android:
-requirements = python3,kivy==2.3.0,kivymd==1.2.0,pillow,material4kivy
+requirements = python3,kivy==2.3.0,kivymd==1.2.0
 
 orientation = portrait
 fullscreen = 0
